@@ -11,7 +11,7 @@ us narrow down the location of contraction and this can prove useful to others a
 <li>As an authenticated user, I can save the tracks/routes that I've walked through</li>
 <li>As an authenticated user, I can see my past history of routes that I've taken</li>
 <li>Used ngrok for bypassing the localhost address and converting it into a useable form for mobiles (both IOS and Android)</li>
-<li>Fronted is purely React Native with the backend supported by NodeJS and MongoDB</li><br>
+<li>Fronted is purely React Native with the backend supported by Express and MongoDB</li><br>
 
 # Built with
 <li>Nodejs</li>
